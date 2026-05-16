@@ -3,7 +3,7 @@
 
 ### Let's Connect! 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhinav-arun-jayadevan](https://www.linkedin.com/in/abhinav-arun-jayadevan-8323b1213/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/abhinav-arun-jayadevan](https://www.linkedin.com/in/abhinav-arun-jayadevan-8323b1213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavarunjayadevan@gmail.com)
 About Me
 # Hi there 👋, I'm Abhinav!
